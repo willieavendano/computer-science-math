@@ -18,10 +18,9 @@ Applied mathematics through computation. Students write programs that explore st
 
 ## Featured Student Projects
 - [Design District Pop-Up Forecasting Model](https://github.com/willieavendano/mdd-popup-forecast)
-- [Stock Price Forecaster](https://github.com/willieavendano/stock-forecast)
 - [Lemonade Stand Simulation](https://github.com/willieavendano/lemonade-stand)
 
-See [willieavendano.github.io](https://willieavendano.github.io) for the full course catalog.
+See [williavendano.github.io](https://williavendano.github.io) for the full course catalog.
 
 ---
 *Computer Science Math · The Cushman School · Miami, FL*
